@@ -1,0 +1,1 @@
+Project Euler's problem solutions on ECL. See [[http://www.xored.com/2013/09/13/happy-programmers-day/][Happy Programmer's day]] blog post.
